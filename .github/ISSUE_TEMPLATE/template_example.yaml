@@ -60,3 +60,9 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What project?
+      options:
+        - test-template-repository-base
