@@ -61,7 +61,7 @@ body:
         - label: I agree to follow this project's Code of Conduct
           required: true
   - type: dropdown
-    id: browsers
+    id: project-template
     attributes:
       label: What project?
       options:
